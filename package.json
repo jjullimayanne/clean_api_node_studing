@@ -1,0 +1,24 @@
+{
+  "name": "node_clean",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2",
+    "uuid": "^10.0.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.6.0",
+    "chance": "^1.1.11",
+    "eslint": "^9.6.0",
+    "globals": "^15.8.0",
+    "jest": "^29.7.0"
+  }
+}
